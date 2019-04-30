@@ -9,6 +9,7 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="EditorToggleInsertState" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="ReformatCode">
