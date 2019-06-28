@@ -5,10 +5,6 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="AddToFavoritesPopup" />
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl f4" />
-    <keyboard-shortcut first-keystroke="ctrl q" />
-  </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
@@ -16,9 +12,6 @@
   <action id="EditorToggleInsertState" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
-  <action id="QuickJavaDoc">
-    <mouse-shortcut keystroke="alt button2" />
-  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="shift alt f" />
